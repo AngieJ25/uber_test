@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParseStarterProject/ViewController.swift"
+            timestampString = "462814378.692279"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParseStarterProject.ViewController.init (ParseStarterProject.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; ParseStarterProject.ViewController"
+                  moduleName = "ParseStarterProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelajgrundy/Desktop/iOSCourse/Uber/ParseStarterProject-2/ParseStarterProject/ViewController.swift"
+                  timestampString = "462896007.941206"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ParseStarterProject.ViewController.init (ParseStarterProject.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;ParseStarterProject.ViewController&gt;"
+                  moduleName = "ParseStarterProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/angelajgrundy/Desktop/iOSCourse/Uber/ParseStarterProject-2/ParseStarterProject/ViewController.swift"
+                  timestampString = "462896007.941409"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
